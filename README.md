@@ -3,7 +3,7 @@ From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientis
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число] (https://github.com/Maksym-Min/SF_dataScience/tree/main/project_0)
+* [Проект 0. Игра: Угадай число](https://github.com/Maksym-Min/SF_dataScience/tree/main/project_0)
 * [ Проект 1. __________](___)
 * [ Проект 2. __________](_______)
 
