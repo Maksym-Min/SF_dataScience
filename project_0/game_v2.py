@@ -3,7 +3,7 @@ import numpy as np
 
 def random_predict(number: int = 1) -> int:
     """рандомно угадываем число
-    argЖnumber -  загаданное число, по умодчанию 1
+    arg number -  загаданное число, по умодчанию 1
     return:
         int число попыток
     """
